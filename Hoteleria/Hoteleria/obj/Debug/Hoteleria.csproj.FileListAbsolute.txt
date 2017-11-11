@@ -1,0 +1,107 @@
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.AsignacionReceta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Bebida.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Ingrediente.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Mesa.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Pedido.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Platillo.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Receta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\bin\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\bin\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\bin\Debug\zu-ZA\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.es-GT.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.ko-KP.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.zu-ZA.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\Prototipo - RESTAURANTE\Hoteleria\Hoteleria\obj\Debug\zu-ZA\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\bin\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\bin\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\bin\Debug\zu-ZA\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.AsignacionReceta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Bebida.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.frm_Convertidor.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Ingrediente.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Mesa.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Pedido.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Platillo.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Receta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.es-GT.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.ko-KP.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.zu-ZA.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\zu-ZA\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Agregar_bebidas.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Agregar_platillos.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\bin\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\bin\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\bin\Debug\zu-ZA\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Agregar_bebidas.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Agregar_platillos.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.AsignacionReceta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Bebida.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.frm_Convertidor.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Ingrediente.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Mesa.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Pedido.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Platillo.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Receta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.es-GT.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.ko-KP.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.zu-ZA.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version2\Hoteleria\Hoteleria\obj\Debug\zu-ZA\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe.config
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\bin\Debug\Hoteleria.exe
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\bin\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\bin\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\bin\Debug\zu-ZA\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Agregar_bebidas.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Agregar_platillos.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.AsignacionReceta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.frm_Convertidor.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Mesa.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Pedido.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Platillo.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Properties.Resources.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Receta.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.es-GT.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.ko-KP.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.Principal.zu-ZA.resources
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\es-GT\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\ko-KP\Hoteleria.resources.dll
+C:\Users\Alejandra\Desktop\Análisis II\Segundo Proyecto\REPOSITORIO-HOTELERIA version 3\Hoteleria\Hoteleria\obj\Debug\zu-ZA\Hoteleria.resources.dll
